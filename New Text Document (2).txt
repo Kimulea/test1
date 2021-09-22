@@ -2,3 +2,4 @@ ssh-keygen -t rsa
 cd .ssh/
 cat id_rsa.pub
 hello
+heeloo1
